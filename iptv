@@ -7854,9 +7854,6 @@ http://xtv.ooo:8080/malik625538/digitalstore1year/270492
 #####################################
 
 
-#EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoQei4j-T0KJ55CSWGyWf1FUyPd5uqUUN8L0Jgom6hw&s",Shamaroo Filmy Gaana
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/04529bfd-4abb-41d8-8aaf-f307cb224e9a/0.m3u8
-
 #EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIKqJ6u74b-3HML7C7Cwr74vOYHkaTaQU8q3J9RwEfA&s",ARY Music(pakistan)
 http://filex.tv:8080/live/mndr111/mndr111/246686.ts
 
@@ -7877,9 +7874,6 @@ https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBR82WPovcAV-_VDe7yt0JnNHd2s_V5oyZ8gYF9wfNA&s",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-
-#EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPSOo_AQ17exRYg_sB5asXEJGfvA-uW_MsfTr3zpbV5duu3vzRpn-o8M&s",B4U Music
-http://watchindia.net:8880/live/83023/62335/2113.m3u8
 
 #EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rNL-ClZJUB-HNi-rkYoHmNm9HJRFwUca8d1d76gUJ89kGRer9AMUp0c&s",B4U Plus
 http://195.26.87.217/live.ts?channelId=154&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -7940,9 +7934,6 @@ https://tgaadi-web.tech/trex.php?tv=3646
 
 #EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcg95ojXU3gnf7pRjTBg9MaK9pmmCKyPz8f56jIhSWvRvkM4UBT7fTdeY&s",T Series
 http://homeip.biz/TSER247/index.m3u8?token=20666637dbc63ea9c58499949f79a470
-
-#EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCvN9F0svaOX9OtTaB1JDpIXj-aS1PKPBW5tOtcqbai5DJm_Ppiemb6g&s",YRF Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/f4da8862-572e-41a0-b0df-1cb4d015ed4d/4.m3u8
 
 #EXTINF:-1 group-title="BOLLYWOOD MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdwvECn0sTFiJYCLJ7TstOaJzIi06yN4Lpet7npxz9g6a8eOvBhnjWak&s",zee party Music
 http://homeip.biz/zp1247/index.m3u8?token=071d962ddb8ac27f3d59e6377038ee89
